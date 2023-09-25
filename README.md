@@ -2,7 +2,7 @@
 Analyzing Banking Trends: Customer Transactions and Regional Impact
 
 # Overview
-This repository contains a Data Analysis project that demonstrates the use of various technologies, including Python, SQL, MySQL, Tableau, and Power BI, to analyze and visualize data. The project focuses on [ briefly describe the main objective or theme of your analysis ].
+This repository contains a Data Analysis project that demonstrates the use of various technologies, including Python, SQL, MySQL, Tableau, and Power BI, to analyze and visualize data. The project focuses on analysis the banking trends.
 
 # Technologies Used
 
