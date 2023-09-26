@@ -206,6 +206,4 @@ group by region_name;```
 Contributions and feedback are welcome. If you'd like to contribute to this project or report issues, please follow GitHub's standard procedures for pull requests and issue tracking.
 
 
-# Note :
 
-Feel free to customize this project description to match the specific details and objectives of your Data Analysis project. Once you've created your GitHub repository, you can add this description to the repository's README.md file for clear documentation.
